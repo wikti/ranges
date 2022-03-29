@@ -20,5 +20,5 @@ with open("readme.md", "r") as fh:
             'Documentation': 'https://python-ranges.readthedocs.io/en/latest/',
             'GitHub': 'https://github.com/Superbird11/ranges',
         },
-        python_requires='>=3.9',
+        python_requires='>=3.7',
     )
